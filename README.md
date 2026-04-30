@@ -84,7 +84,7 @@ This dashboard helps businesses:
 
 ## 🌐 Live Dashboard
 
-🔗 View on Tableau Public: [Open Dashboard](https://www.tableau.com/pt-br/products/public?utm_source=chatgpt.com)
+🔗 View on Tableau Public: [Open Dashboard](https://public.tableau.com/app/profile/thallya.cristhina/viz/SalesCustomerAnalyticsDashboard_17775011137650/SalesDashboard)
 
 ---
 
