@@ -1,4 +1,4 @@
-# 📊 Sales & Customer Analytics Dashboard
+# 📊 Revenue & Customer Analytics Dashboard
 
 ### Interactive Tableau Dashboard for Revenue, Customers, and Sales Performance
 
